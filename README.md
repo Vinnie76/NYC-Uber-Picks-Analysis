@@ -40,4 +40,4 @@ It works in 3 simple steps:
 2. **Sign into share.streamlit.io**
 3. **Click 'Deploy an app' and then paste in your GitHub URL**
 
-That's it! 🎈 You now have a publicly deployed app that you can share with the world. Click to learn more about how to use Streamlit Community Cloud.
+That's it! 🎈 You now have a publicly deployed app that you can share with the world.
